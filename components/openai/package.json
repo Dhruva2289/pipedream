@@ -1,6 +1,6 @@
 {
   "name": "@pipedream/openai",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "description": "Pipedream OpenAI Components",
   "main": "app/openai.app.mjs",
   "keywords": [
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "@pipedream/platform": "^1.2.1",
+    "@pipedream/platform": "^1.5.1",
     "@pipedream/types": "^0.1.4",
     "got": "^12.6.0",
     "openai": "^3.2.1"
